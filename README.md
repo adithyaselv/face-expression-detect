@@ -4,11 +4,11 @@
 
 ###Dependencies
 
-[Scikit learn]()
-[opencv]()
-[dlib with python support]()
-[numpy]()
-[skimage]()
+* [Scikit learn]()
+* [opencv]()
+* [dlib with python support]()
+* [numpy]()
+* [skimage]()
 
 ###Usage
 
