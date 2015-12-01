@@ -15,5 +15,5 @@
 ` $ python EmoDetect.py [-h] [-i I [I ...]] `
 
 optional arguments:
-  -h, --help    show this help message and exit
-  -i I [I ...]  Enter the filenames with extention of an Image
+ *  -h, --help    show this help message and exit
+ *  -i I [I ...]  Enter the filenames with extention of an Image
